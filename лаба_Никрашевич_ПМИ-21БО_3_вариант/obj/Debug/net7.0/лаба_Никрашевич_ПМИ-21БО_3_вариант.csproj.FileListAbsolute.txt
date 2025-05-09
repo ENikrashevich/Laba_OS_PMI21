@@ -1,0 +1,14 @@
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.AssemblyInfo.cs
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\bin\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.exe
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\bin\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.deps.json
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\bin\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.runtimeconfig.json
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\bin\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.dll
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\bin\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.pdb
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.dll
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\refint\лаба_Никрашевич_ПМИ-21БО_3_вариант.dll
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.pdb
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\лаба_Никрашевич_ПМИ-21БО_3_вариант.genruntimeconfig.cache
+C:\Users\Егор\Desktop\python\лаба_Никрашевич_ПМИ-21БО_3_вариант\obj\Debug\net7.0\ref\лаба_Никрашевич_ПМИ-21БО_3_вариант.dll

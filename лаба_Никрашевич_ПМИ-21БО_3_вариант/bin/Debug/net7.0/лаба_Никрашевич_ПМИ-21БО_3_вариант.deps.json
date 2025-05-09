@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "лаба_Никрашевич_ПМИ-21БО_3_вариант/1.0.0": {
+        "runtime": {
+          "лаба_Никрашевич_ПМИ-21БО_3_вариант.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "лаба_Никрашевич_ПМИ-21БО_3_вариант/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
