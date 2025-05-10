@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -60,13 +60,23 @@ namespace лаба_Никрашевич_ПМИ_21БО_3_вариант
                             Console.WriteLine("Проверка счета клиента");
                             Console.WriteLine("Списание суммы");
                             Console.WriteLine("Ожидание подтверждения списания");
-                            Console.WriteLine("Выдача суммы " + tmp);
-                            Console.WriteLine("Печать чека");
-                            Console.WriteLine("Со счета списано " + tmp);
-                            GetMoney Get = new GetMoney(bank, tmp);
-                            manage.SetCommand(Get);
-                            manage.PressButton();
-                            Console.WriteLine("\n");
+                            if(bank.balance > tmp)
+                            {
+                                Console.WriteLine("Выдача суммы " + tmp);
+                                Console.WriteLine("Печать чека");
+                                Console.WriteLine("Со счета списано " + tmp);
+                                GetMoney Get = new GetMoney(bank, tmp);
+                                manage.SetCommand(Get);
+                                manage.PressButton();
+                                Console.WriteLine("\n");
+                            }
+                            else
+                            {
+                                GetMoney Get = new GetMoney(bank, tmp);
+                                manage.SetCommand(Get);
+                                manage.PressButton();
+                                Console.WriteLine("\n");
+                            }
                         }
                         break;
                     case "3":
